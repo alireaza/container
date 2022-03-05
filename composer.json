@@ -1,6 +1,6 @@
 {
   "name": "alireaza/container",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type": "library",
   "license": "MIT",
   "description": "The PSR-11 Container.",
@@ -29,7 +29,7 @@
     "psr/container": "1.1.1|2.0.2"
   },
   "require-dev": {
-    "phpunit/phpunit": "9.5.11"
+    "phpunit/phpunit": "^9.5.16"
   },
   "autoload": {
     "psr-4": {
